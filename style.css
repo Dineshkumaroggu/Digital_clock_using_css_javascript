@@ -1,0 +1,33 @@
+@font-face{
+    font-family:digital;
+    src:url(digital-7.ttf)
+}
+
+    
+    h1{
+        margin:0px;
+        margin-top:40px;
+        color:#626277;
+        font-size:45px;
+    }
+   
+    body{
+        background-color: blanchedalmond;
+    }
+    
+    #date_id{
+    color:black;
+    font-size:80px;
+    width:auto;
+    }
+    
+    #time_id{
+    border:2px dashed #2E9AFE;
+    color:black;
+    margin-top: 20px;
+    font-size: 130px;
+    font-family: digital;
+    padding: 10px;
+    width:800px;
+    }
+    
